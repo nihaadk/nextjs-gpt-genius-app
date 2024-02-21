@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@clerk/clerk-react": "^4.30.5",
+    "@clerk/nextjs": "^4.29.7",
     "@prisma/client": "^5.9.1",
     "@tailwindcss/typography": "github:tailwindcss/typography",
     "@tanstack/react-query": "^5.20.1",
