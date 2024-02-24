@@ -1,7 +1,7 @@
-import React from "react";
+import { UserProfile } from '@clerk/nextjs';
 
 const ProfilePage = () => {
-  return <div>Profile Page</div>;
+  return <UserProfile />;
 };
 
 export default ProfilePage;
